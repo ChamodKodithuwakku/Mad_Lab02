@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Mad_Lab2</string>
+    <string name="email">Enter email </string>
+    <string name="Verify_email">Verify email</string>
+    <string name="password">Enter password</string>
+    <string name="Re_enter_password">Re Enter password</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="cansel_button">CANSEL</string>
+
 </resources>
